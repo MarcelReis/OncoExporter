@@ -1,1 +1,2 @@
 # OncoExporter
+Criado para gerar relatórios de um sistema legado que possui banco de dados MDB em sua versão do Office 1997. Atualmente exporta dados de cadastro para um arquivo CSV que é então conectado a uma planilha do Excel e refinado novamente com PowerQuerry. Futuros pushs irão incluir queries mais avançados proporcionando visualização de dados históricos do faturamento levando em conta diversas variaveis.
